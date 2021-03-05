@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+### The Coworking Crew: Who We Are
 
-You can use the [editor on GitHub](https://github.com/aileennicolas/cctable/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Hi! We are the Coworking Crew! There is not co-working category on twitch, and in order to represent ourselves better, a few of us co-work/study streamers decided to connect and support each other. In this website, you will find many of us co-working streamers, and we will continue to add more over time!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+If you are a Twitch viewer, I hope you will use this website to see how widespread and diverse our community is, and I hope you'll find some streamers to match your vibe. 
 
-### Markdown
+If you are a co-working/study streamer and are interested in being a formal member of this community, please fill out this [google form](https://docs.google.com/forms/d/e/1FAIpQLSdaHkZsVqpYMKeoa-P_mh9Z0pzEh6PIqJopbm7ZwRyuhU_4jA/viewform?usp=send_form).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aileennicolas/cctable/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Members
